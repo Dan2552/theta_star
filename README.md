@@ -1,4 +1,4 @@
-# astar
+# theta_star
 
 Ruby implementation of the Theta* search algorithm.
 
